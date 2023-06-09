@@ -1,0 +1,19 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	preview_theme	1
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	fa5bcebe80c1460e22be099c9cdb506b
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	cart	1c4f45f526ca10aa3650a6e05fd92aec
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1676205468
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	checkout_session_token__c__1c4f45f526ca10aa3650a6e05fd92aec	%7B%22token%22%3A%22cSs1R1o2eEU4MWdMR2RBZy9QODg0VklKSkpkMkx5RHpBZXNtSi9MMTJIUkFNTEZQeVZjT2E3TXV5QjhrOW1GOWZDQ0tVakxNL3JVN0hWT2o1ZEN6MWZXN01SYzlxd1RJb2p5NDlkM1M0eGdJaHBIUlE2eERzQzk2YnpCVFplcXFYTGVmYmhmNjg1d0g0R3MxbVlNQ1puREtyYllYcWlUcC9qL2J2MFBGc29wWWk0OVBCVkQvSGsvWUxmOXRjNUdVUTJXdGw5elFubTd6RzJRd2oyNmx5ZlhCQ0w0U21pK3FBRUhBNTV6VkVGK3prMUllOTZnTXFHL1I4OTBzc0J4d1lhR1pXS2JKaXI4S2lkZldDdz09LS1YUHdxSXZZRWxCR1RrRHdxLS1ZMWhJaGU1MEpwaFRkRlFnMjBNR2RBPT0%22%2C%22locale%22%3A%22en-US%22%7D
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	checkout_session_lookup	%7B%22version%22%3A1%2C%22keys%22%3A%5B%7B%22source_id%22%3A%221c4f45f526ca10aa3650a6e05fd92aec%22%2C%22checkout_session_identifier%22%3A%2253fe9bb6ceb9b997f5e0dd34b596bae8%22%2C%22source_type_abbrev%22%3A%22c%22%2C%22updated_at%22%3A%222023-02-12T12%3A37%3A48.800Z%22%7D%5D%7D
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	8f67648e3ffd439a9328eb67b44016cd
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-east1%3A9
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	_y	6531dc33-1d3f-4b6a-bcec-9235fc0e6ee0
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	_s	a79602a7-71ce-4715-b950-d62d4fefd289
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	6531dc33-1d3f-4b6a-bcec-9235fc0e6ee0
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	a79602a7-71ce-4715-b950-d62d4fefd289
+nokshi-2.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
